@@ -1,1 +1,1 @@
-# MFF-IIoT: A Multi-granularity Formal Framework of User Authentication for IIoT
+# MFF-IoT: A Multi-granularity Formal Framework of User Authentication for IoT
